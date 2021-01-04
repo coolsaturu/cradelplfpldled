@@ -1,0 +1,7 @@
+{
+    output: "newtons_cradle.js",
+
+    paths: {
+        "src" : "/"
+    }
+}
